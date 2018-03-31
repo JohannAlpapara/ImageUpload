@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Netbeans
-xampp 5.x.x-x
+* Netbeans
+* xampp 5.x.x-x
 
 ### Installing
 
