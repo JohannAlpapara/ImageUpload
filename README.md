@@ -13,10 +13,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Import AppDB.sql to phpmyadmin
-Open spot folder in Netbeans and run the project
+* Import AppDB.sql to phpmyadmin
+* Open spot folder in Netbeans and run the project
 
-Go to localhost/spot/Upload.jsp in your browser
+* Go to localhost/spot/Upload.jsp in your browser
 
 ## Links
 
